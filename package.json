@@ -1,0 +1,11 @@
+{
+  "name": "multi-site-builder",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/generate.js"
+  },
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
